@@ -1,0 +1,5 @@
+I am a computer scientist from Brussels, currently researching AI in biomedical contexts, as part of the 2022 cohort of the [UKRI CDT in Biomedical AI](https://web.inf.ed.ac.uk/cdt/biomedical-ai).
+Coming from a computational background, I entered neuroscience with an interest in how our brains compute.
+
+I spend most of my time analysing the lab's electrophysiology recordings, applying a variety of statistical and machine learning tools to try to get insight into what is happening.
+The entorhinal cortex is a great site for this type of research, as it contains a bunch of neurons that seem to correlate with spatial variables. However, we have not yet managed to combine these functional neuron types into a model that can perform the computations needed for our spatial behaviour. My project aims at (1) finding out whether this building block approach even makes sense and (2) devising and verifying alternative models for spatial computation that are a potential better fit for the circular, dynamic nature of the brain.

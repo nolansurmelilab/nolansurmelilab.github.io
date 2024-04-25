@@ -1,0 +1,77 @@
+{% if site.footer_fixed %}
+  <footer class="fixed-bottom" role="contentinfo">
+    <div class="container mt-0">
+      &copy; Copyright {{ site.time | date: '%Y' }}
+      {{ site.first_name }}
+      {{ site.middle_name }}
+      {{ site.last_name }}. {{ site.footer_text }}
+      {% if site.impressum_path %}
+        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+      {% endif %}
+      {% if site.last_updated %}
+        Last updated: {{ 'now' | date: '%B %d, %Y' }}.
+      {% endif %}
+    </div>
+  </footer>
+  {% else %}
+  <footer class="sticky-bottom mt-5" role="contentinfo">
+    <div class="container">
+        <div class="footer-element copyright">
+            &copy; Copyright {{ site.time | date: '%Y' }}
+            {{ site.first_name }}
+            {{ site.middle_name }}
+            {{ site.last_name }}.
+        </div>
+        <div class="footer-element">
+            <a href="https://www.ed.ac.uk/">
+                <img class="logo" src="/assets/img/uoe.png" alt="University of Edinburgh logo" style="width: 100%;">
+            </a>
+        </div>
+        <div class="footer-element">
+            <a href="https://discovery-brain-sciences.ed.ac.uk/">
+                <img class="logo" src="/assets/img/cdbs.png" alt="Centre for Discovery Brain Sciences logo" style="width: 100%;">
+            </a>
+        </div>
+        <div class="footer-element">
+            <a href="https://sidb.org.uk/">
+                <img class="logo" src="/assets/img/SIDB.gif" alt="Simons Initiative for the Developing Brain logo" style="width: 100%;">
+            </a>
+        </div>
+    </div>
+
+    <style>
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .footer-element {
+        flex: 1;
+        margin: 0 20px;
+    }
+
+    .copyright {
+        flex: 2; /* Adjust this value as needed */
+    }
+
+    @media (max-width: 768px) { /* Adjust the pixel value as needed */
+        .container {
+            flex-direction: column;
+        }
+
+        .footer-element {
+            margin: 20px 0;
+        }
+
+        .copyright {
+            flex: 1;
+        }
+
+        .logo {
+            max-width: 50%; /* Adjust this value as needed */
+        }
+    }
+    </style>
+</footer>
+{% endif %}
