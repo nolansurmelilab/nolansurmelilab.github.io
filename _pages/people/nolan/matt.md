@@ -1,0 +1,1 @@
+If you are interested in joining the lab then please email me with a CV and a brief description of projects you'd like to work on.
