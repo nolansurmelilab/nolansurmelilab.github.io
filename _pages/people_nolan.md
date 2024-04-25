@@ -84,6 +84,7 @@ profiles_phd:
     name: Zita Francsics
     email: z.francsics@sms.ed.ac.uk
     more_info: >
+      Epilepsy Research Institute UK
       Simons Initiative for the Developing Brain
 
 collaborators:
