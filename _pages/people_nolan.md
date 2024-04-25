@@ -73,7 +73,7 @@ profiles_phd:
   - align: left
     image: people/fill.png
     image_circular: false
-    name: Yifang Wang
+    name: Yifang Yuan
     email: s2469908@ed.ac.uk
     more_info: >
       EASTBIO Doctoral Program
