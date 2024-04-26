@@ -41,17 +41,10 @@ profiles_phd:
     name: Jinghua Yang
     email: s1582013@sms.ed.ac.uk
   - align: left
-    image: people/max.jpg
-    image_circular: false
-    name: Max Knops
-    email: m.j.j.knops@sms.ed.ac.uk
-    more_info: >
-      Simons Initiative for the Developing Brain
-  - align: left
     image: people/raf.jpeg
     image_circular: false
     name: Rafael Lemarchand
-    email: akenny3@ed.ac.uk
+    email: r.b.lemarchand@sms.ed.ac.uk
     more_info: >
       Wellcome Trust Translational Neuroscience Program
   - align: left

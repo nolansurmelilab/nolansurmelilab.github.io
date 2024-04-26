@@ -34,7 +34,7 @@ profiles_postdoc:
     image: people/fill.png
     image_circular: false
     name: Jack Armstrong
-    email: j.t.armstrong-1@sms.ed.ac.uk
+    email: jarmst2@ed.ac.uk
 
 profiles_soft:
   - align: left
@@ -120,4 +120,8 @@ collaborators:
     name: Emma Wood
     more_info: >
       Centre for Discovery Brain Sciences, University of Edinburgh
+  - align: left
+    name: Emily Osterweil
+    more_info: >
+        Rosamund Stone Zander Translational Neuroscience Center, Harvard Medical School
 ---
