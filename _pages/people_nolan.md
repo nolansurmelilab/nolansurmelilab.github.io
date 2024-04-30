@@ -71,7 +71,7 @@ profiles_phd:
     more_info: >
       CDT in Biomedical AI
   - align: left
-    image: people/fill.png
+    image: people/yifang.jpg
     image_circular: false
     name: Yifang Yuan
     email: s2073467@ed.ac.uk
