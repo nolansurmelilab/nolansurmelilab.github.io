@@ -16,7 +16,7 @@ We aim to do the best science we can with the resources available to us. We are 
 With help from current and previous lab members we’ve put together below principles and general expectations for everyone, for ourselves, for postdocs and PhD students, for lab staff and for undergraduates. An expanded version of this document is available on the [wiki](https://www.wiki.ed.ac.uk/pages/viewpage.action?pageId=376674941). 
 
 ##### *Everyone*
-We’re lucky to be surrounded by talented colleagues from diverse backgrounds. Our expectation is that everyone will contribute to a respectful, open, positive and productive work environment.
+We are lucky to be surrounded by talented colleagues from diverse backgrounds. Our expectation is that everyone will contribute to a respectful, open, positive and productive work environment.
 
 ##### *Gülşen and Matt*
 We aim to ensure our labs carry out rigorous science that addresses important research questions, to support students and staff in our labs in their personal and career development, and to provide a respectful and supportive environment for everyone in our labs. We encourage everyone to maintain a healthy work-life balance, take holidays and pay attention to long-term career development as well as immediately project goals.
