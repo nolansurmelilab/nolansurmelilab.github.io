@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Wei have a new joint lab website!
+We have a new joint lab website!

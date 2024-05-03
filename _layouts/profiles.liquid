@@ -195,7 +195,7 @@ layout: page
           <h2 class="category">Master Students</h2>
         </a>
         <div style="display: flex; flex-wrap: wrap; justify-content: start;">
-        {% for profile in page.profiles_phd %}
+        {% for profile in page.profiles_master %}
           <div class="profile" style="flex: 1 0 300px; margin: 10px; max-width: 300px;">
             {% if profile.image %}
                   {% assign profile_image_path = profile.image | prepend: '/assets/img/' %}

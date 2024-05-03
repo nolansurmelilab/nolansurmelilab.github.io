@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-Congrats to the undergraduate that joined our lab this year on submitting their theses!
+Congrats to the undergraduate students that joined our lab this year on submitting their theses!

@@ -87,6 +87,21 @@ profiles_phd:
       Epilepsy Research Institute UK
       Simons Initiative for the Developing Brain
 
+profiles_master:
+  - align: left
+    name: Gerard Callau Navarro
+    email: gerard.callau@ed.ac.uk
+    website: linkedin.com/in/gerard-callau-navarro
+    more_info: >
+        MScR Neuroscience, Integrative Neuroscience
+  - align: left
+    name: Roshni Patel
+    email: r.d.patel@sms.ed.ac.uk
+  - align: left
+    name: Sandra Constantinou Juhasz
+    email: s.b.constantinou-juhasz@sms.ed.ac.uk
+
+
 collaborators:
   - align: left
     name: Istvan Gyongy
