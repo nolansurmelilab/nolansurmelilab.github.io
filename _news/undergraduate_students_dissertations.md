@@ -6,4 +6,5 @@ related_posts: false
 ---
 
 
-Congrats to the undergraduate students that joined our lab this year on submitting their theses!
+Congrats to Alice Clark, Katie Robertson, Holly Yip, and Jiani Mao, who joined
+our labs as undergraduate students this year and just submitted their dissertations!
