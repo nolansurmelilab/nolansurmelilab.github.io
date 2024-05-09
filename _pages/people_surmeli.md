@@ -29,7 +29,7 @@ profiles_phd:
     more_info: >
       Simons Initiative for the Developing Brain
   - align: left
-    image: people/fill.png
+    image: people/eddie.jpeg
     image_circular: false
     name: Edward Agboraw
     email: s1605280@ed.ac.uk
