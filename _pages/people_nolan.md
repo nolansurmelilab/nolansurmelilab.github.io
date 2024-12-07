@@ -77,15 +77,6 @@ profiles_phd:
     email: s2073467@ed.ac.uk
     more_info: >
       EASTBIO Doctoral Program
-  - align: left
-    image: people/zita.png
-    content: people/nolan/zita.md
-    image_circular: false
-    name: Zita Francsics
-    email: z.francsics@sms.ed.ac.uk
-    more_info: >
-      Epilepsy Research Institute UK
-      Simons Initiative for the Developing Brain
 
 profiles_master:
   - align: left
