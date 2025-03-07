@@ -33,8 +33,8 @@ profiles_postdoc:
   - align: left
     image: people/fill.png
     image_circular: false
-    name: Jack Armstrong
-    email: jarmst2@ed.ac.uk
+    name: Ian Hawes
+    email: ian.hawes@ed.ac.uk
 
 profiles_postdoc_alumni:
   - align: left
@@ -94,11 +94,6 @@ profiles_soft:
 
 profiles_phd:
   - align: left
-    image: people/fill.png
-    image_circular: false
-    name: Ian Hawes
-    email: ian.hawes@ed.ac.uk
-  - align: left
     image: people/junji.jpg
     image_circular: false
     name: Junji Hua
@@ -135,7 +130,7 @@ profiles_phd_alumni:
     more_info: 2019 - 2023  
   - align: left
     name: Harry Clark
-    more_info: 2018 - 2022  
+    more_info: 2018 - 2022<br>(Alison Douglas PhD Dissertation Prize) 
   - align: left
     name: Christina Brown
     more_info: 2016 - 2020  
@@ -167,14 +162,10 @@ profiles_phd_alumni:
     name: Cian O’Donnell
     more_info: 2007 - 2011  
 
-
 profiles_student:
   - align: left
     name: Gerard Callau Navarro
     email: gerard.callau@ed.ac.uk
-    website: linkedin.com/in/gerard-callau-navarro
-    more_info: >
-        MScR Neuroscience, Integrative Neuroscience
   - align: left
     name: Roshni Patel
     email: r.d.patel@sms.ed.ac.uk
@@ -206,94 +197,94 @@ profiles_student_alumni:
     more_info: January - August 2022  
   - align: left
     name: Sergio Cruz
-    more_info: January - August 2021  
+    more_info: January - August 2021<br>(Neuroscience)  
   - align: left
     name: Alyssa Meng
-    more_info: January - August 2021  
+    more_info: January - August 2021<br>(Neuroscience)  
   - align: left
     name: Anuj Vadher
-    more_info: January - August 2021  
+    more_info: January - August 2021<br>(Neuroscience)  
   - align: left
     name: Eleni Tsoukala
-    more_info: January - August 2021  
+    more_info: January - August 2021<br>(Neuroscience)  
   - align: left
     name: Lucas Van Hoeij Schilthouwer Pompe
-    more_info: May - August 2019 (Informatics)  
+    more_info: May - August 2019<br>(Informatics)
   - align: left
     name: Jack Armstrong
-    more_info: January - August 2019 (Neuroscience)  
+    more_info: January - August 2019<br>(Neuroscience)  
   - align: left
     name: Adam Bennett
-    more_info: January - August 2019 (Neuroscience)  
+    more_info: January - August 2019<br>(Neuroscience)  
   - align: left
     name: Muchun Han
-    more_info: January - August 2019 (Zhejiang)  
+    more_info: January - August 2019<br>(Zhejiang)  
   - align: left
     name: Merlin Williams
-    more_info: January - August 2018 (Neuroscience)  
+    more_info: January - August 2018<br>(Neuroscience)  
   - align: left
     name: Sau Yee Tsoi
-    more_info: January - August 2018 (Neuroscience)  
+    more_info: January - August 2018<br>(Neuroscience)  
   - align: left
     name: Junji Hua
-    more_info: January - August 2018 (Zhejiang)  
+    more_info: January - August 2018<br>(Zhejiang)  
   - align: left
     name: Michelle Sanchez Rivera
-    more_info: January - August 2017 (Neuroscience)  
+    more_info: January - August 2017<br>(Neuroscience)  
   - align: left
     name: Rachel Humphries
-    more_info: January - August 2017 (Neuroscience)  
+    more_info: January - August 2017<br>(Neuroscience)  
   - align: left
     name: Zuohang Wu
-    more_info: January - August 2017 (Zhejiang)  
+    more_info: January - August 2017<br>(Zhejiang)  
   - align: left
     name: Antoine Georgiou
-    more_info: January - August 2017 (Neuroscience)  
+    more_info: January - August 2017<br>(Neuroscience)  
   - align: left
     name: Saishree Badrinarayanan
-    more_info: January - August 2016 (Neuroscience)  
+    more_info: January - August 2016<br>(Neuroscience)  
   - align: left
     name: Imran Khaliq
-    more_info: May - August 2015 (Informatics)  
+    more_info: May - August 2015<br>(Informatics)
   - align: left
     name: Klara Gerlei
-    more_info: January - August 2015 (Neuroscience)  
+    more_info: January - August 2015<br>(Neuroscience)  
   - align: left
     name: Daniel-Cosmin Marcu
-    more_info: January - August 2015 (Neuroscience)  
+    more_info: January - August 2015<br>(Neuroscience)  
   - align: left
     name: Alina Selega
-    more_info: May - August 2014 (Informatics)  
+    more_info: May - August 2014<br>(Informatics)
   - align: left
     name: Katarina Chlebikova
-    more_info: January - August 2014 (Neuroscience)  
+    more_info: January - August 2014<br>(Neuroscience)  
   - align: left
     name: Antonio Candela
-    more_info: January - August 2014 (Neuroscience)  
+    more_info: January - August 2014<br>(Neuroscience)  
   - align: left
     name: Elizavet-Ionna Kyriakou
-    more_info: January - August 2013 (Neuroscience)  
+    more_info: January - August 2013<br>(Neuroscience)  
   - align: left
     name: Julie McNairn
-    more_info: January - August 2012 (Neuroscience)  
+    more_info: January - August 2012<br>(Neuroscience)  
   - align: left
     name: Ruth Milne
-    more_info: September 2011 (Biomedical Sciences)  
+    more_info: September 2011<br>(Biomedical Sciences)
   - align: left
     name: Tosif Ahamed
-    more_info: May - August 2011 (Neuroinformatics)  
+    more_info: May - August 2011<br>(Neuroinformatics)
   - align: left
     name: Lukas Solanka
-    more_info: May - August 2010 (Neuroinformatics)  
+    more_info: May - August 2010<br>(Neuroinformatics) 
   - align: left
     name: Cagla Defterali
-    more_info: May - August 2009 (Neuroscience)  
+    more_info: May - August 2009<br>(Neuroscience)  
   - align: left
     name: Helen Ramsden
-    more_info: May - August 2009 (Neuroinformatics)  
+    more_info: May - August 2009<br>(Neuroinformatics)  
   - align: left
     name: Cian O’Donnell
-    more_info: May - August 2007 (Neuroinformatics)  
+    more_info: May - August 2007<br>(Neuroinformatics)  
 
 collaborators:
   - align: left

@@ -20,6 +20,14 @@ profiles_postdoc:
     name: Sara Gomez-Arnaiz
     email: sara.gomez-arnaiz@ed.ac.uk
 
+profiles_postdoc_alumni:
+  - align: left
+    name: Alessandro Di Filippo
+    more_info: 2018 - 2022
+  - align: left
+    name: Merve Oncul
+    more_info: 2019 - 2021
+
 profiles_phd:
   - align: left
     image: people/daniel.jpeg
@@ -55,9 +63,22 @@ profiles_phd:
     more_info: >
       EASTBIO Doctoral Program
 
+
 collaborators:
   - align: left
     name: Emma Wood
     more_info: >
       Centre for Discovery Brain Sciences, University of Edinburgh
+  - align: left
+    name: Sara Wade
+    more_info: >
+      School of Mathematics, University of Edinburgh
+  - align: left
+    name: Sebastian Greiss
+    more_info: >
+      Centre for Discovery Brain Sciences, University of Edinburgh
+  - align: left
+    name: Zengcai Guo
+    more_info: >
+      Tsinghua Medicine, Tsinghua University
 ---
