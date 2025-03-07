@@ -104,6 +104,9 @@ layout: page
         {% if profile.name %}
         <div class="more-info">{{ profile.name }}</div>
         {% endif %}
+        {% if profile.more_info %}
+        <p style="margin-top: 0;">{{ profile.more_info }}</p>
+        {% endif %}
         <br>
       </div>
       {% endfor %}
@@ -209,14 +212,32 @@ layout: page
       </div>
       {% endfor %}
     </div>
-    {% endif %}
-
-    {% if page.profiles_master %}
+    {% if page.profiles_phd_alumni %}
     <a>
-      <h2 class="category">Master Students</h2>
+      <h3 class="category">Alumni</h3>
     </a>
     <div style="display: flex; flex-wrap: wrap; justify-content: start;">
-      {% for profile in page.profiles_master %}
+      {% for profile in page.profiles_phd_alumni %}
+      <div class="profile" style="flex: 1 0 300px; margin: 10px; max-width: 300px;">
+        {% if profile.name %}
+        <div class="more-info">{{ profile.name }}</div>
+        {% endif %}
+        {% if profile.more_info %}
+        <p style="margin-top: 0;">{{ profile.more_info }}</p>
+        {% endif %}
+        <br>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% endif %}
+
+    {% if page.profiles_student %}
+    <a>
+      <h2 class="category">Students</h2>
+    </a>
+    <div style="display: flex; flex-wrap: wrap; justify-content: start;">
+      {% for profile in page.profiles_student %}
       <div class="profile" style="flex: 1 0 300px; margin: 10px; max-width: 300px;">
         {% if profile.image %}
         {% assign profile_image_path = profile.image | prepend: '/assets/img/' %}
@@ -259,6 +280,25 @@ layout: page
       </div>
       {% endfor %}
     </div>
+
+    {% if page.profiles_student_alumni %}
+    <a>
+      <h3 class="category">Alumni</h3>
+    </a>
+    <div style="display: flex; flex-wrap: wrap; justify-content: start;">
+      {% for profile in page.profiles_student_alumni %}
+      <div class="profile" style="flex: 1 0 300px; margin: 10px; max-width: 300px;">
+        {% if profile.name %}
+        <div class="more-info">{{ profile.name }}</div>
+        {% endif %}
+        {% if profile.more_info %}
+        <p style="margin-top: 0;">{{ profile.more_info }}</p>
+        {% endif %}
+        <br>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
     {% endif %}
 
     {% if page.collaborators %}
@@ -286,11 +326,10 @@ layout: page
         <div class="more-info"><a href="mailto:{{ profile.email }}">{{ profile.email }}</a></div>
         {% endif %}
         {% if profile.more_info %}
-        <p style="margin-top: 0;">{{ profile.more_info }}
-        <p>
-          {% endif %}
-          {% endif %}
-          <br>
+        <p style="margin-top: 0;">{{ profile.more_info }}</p>
+        {% endif %}
+        {% endif %}
+        <br>
       </div>
       {% endfor %}
     </div>

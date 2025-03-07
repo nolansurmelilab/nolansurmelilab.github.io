@@ -36,6 +36,54 @@ profiles_postdoc:
     name: Jack Armstrong
     email: jarmst2@ed.ac.uk
 
+profiles_postdoc_alumni:
+  - align: left
+    name: Cristina Martinez-Gonzales
+    more_info: 2018 - 2024  
+  - align: left
+    name: Christina Brown
+    more_info: 2021 - 2023  
+  - align: left
+    name: Tian Tian
+    more_info: 2019 - 2022  
+  - align: left
+    name: Klara Gerlei
+    more_info: 2019 - 2022  
+  - align: left
+    name: Teris Tam
+    more_info: 2019 - 2022  
+  - align: left
+    name: Sarah Tennant
+    more_info: 2017 - 2022  
+  - align: left
+    name: Derek Garden
+    more_info: 2006 - 2022  
+  - align: left
+    name: Elizabeth Alison
+    more_info: 2016 - 2018  
+  - align: left
+    name: Gülşen Sürmeli
+    more_info: 2012 - 2018  
+  - align: left
+    name: Alfredo Gonzales-Sulser
+    more_info: 2012 - 2018  
+  - align: left
+    name: Marlies Oostland
+    more_info: 2012 - 2017  
+  - align: left
+    name: Christina McClure
+    more_info: 2011 - 2014  
+  - align: left
+    name: Arianna Rinaldi
+    more_info: 2007 - 2012  
+  - align: left
+    name: Melanie White
+    more_info: 2007 - 2011  
+  - align: left
+    name: Paul Dodson
+    more_info: 2006 - 2010  
+
+
 profiles_soft:
   - align: left
     image: people/chris.jpeg
