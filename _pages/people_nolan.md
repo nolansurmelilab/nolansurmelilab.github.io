@@ -164,14 +164,11 @@ profiles_phd_alumni:
 
 profiles_student:
   - align: left
-    name: Gerard Callau Navarro
-    email: gerard.callau@ed.ac.uk
+    name: Likitha Mallela
+    email: l.mallela@sms.ed.ac.uk
   - align: left
-    name: Roshni Patel
-    email: r.d.patel@sms.ed.ac.uk
-  - align: left
-    name: Sandra Constantinou Juhasz
-    email: s.b.constantinou-juhasz@sms.ed.ac.uk
+    name: Priya Sarda
+    email: p.sarda@sms.ed.ac.uk
 
 profiles_student_alumni:
   - align: left
@@ -290,37 +287,37 @@ collaborators:
   - align: left
     name: Istvan Gyongy
     more_info: >
-      School of Engineering, University of Edinburgh
+      School of Engineering<br>University of Edinburgh
   - align: left
     name: Matthias Hennig
     more_info: >
-      School of Informatics, University of Edinburgh
+      School of Informatics<br>University of Edinburgh
   - align: left
     name: Srinjoy Mitra
     more_info: >
-      School of Engineering, University of Edinburgh
+      School of Engineering<br>University of Edinburgh
   - align: left
     name: Robert Henderson
     more_info: >
-      School of Engineering, University of Edinburgh
+      School of Engineering<br>University of Edinburgh
   - align: left
     name: Benjamin Grewe
     more_info: >
-      University of Zurich
+      Institute of Neuroinformatics<br>University of Zurich
   - align: left
     name: Ioannis Papastathopoulos
     more_info: >
-      School of Mathematics, University of Edinburgh
+      School of Mathematics<br>University of Edinburgh
   - align: left
     name: Ian Duguid
     more_info: >
-      Centre for Discovery Brain Sciences, University of Edinburgh
+      Centre for Discovery Brain Sciences<br>University of Edinburgh
   - align: left
     name: Emma Wood
     more_info: >
-      Centre for Discovery Brain Sciences, University of Edinburgh
+      Centre for Discovery Brain Sciences<br>University of Edinburgh
   - align: left
     name: Emily Osterweil
     more_info: >
-        Rosamund Stone Zander Translational Neuroscience Center, Harvard Medical School
+        Rosamund Stone Zander Translational Neuroscience Center<br>Harvard Medical School
 ---

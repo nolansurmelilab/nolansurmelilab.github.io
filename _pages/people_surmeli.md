@@ -63,22 +63,38 @@ profiles_phd:
     more_info: >
       EASTBIO Doctoral Program
 
+profiles_student:
+  - align: left
+    name: Tajinder Sembhi
+    email: t.s.sembhi@sms.ed.ac.uk
+
+profiles_student_alumni:
+  - align: left
+    name: Emily Cooper
+  - align: left
+    name: Huiting Li
+  - align: left
+    name: Maria Del Mar Munoz Burbano
+  - align: left
+    name: Sarah Choi
+  - align: left
+    name: Zuzanna Bogdanowicz
 
 collaborators:
   - align: left
     name: Emma Wood
     more_info: >
-      Centre for Discovery Brain Sciences, University of Edinburgh
+      Centre for Discovery Brain Sciences<br>University of Edinburgh
   - align: left
     name: Sara Wade
     more_info: >
-      School of Mathematics, University of Edinburgh
+      School of Mathematics<br>University of Edinburgh
   - align: left
     name: Sebastian Greiss
     more_info: >
-      Centre for Discovery Brain Sciences, University of Edinburgh
+      Centre for Discovery Brain Sciences<br>University of Edinburgh
   - align: left
     name: Zengcai Guo
     more_info: >
-      Tsinghua Medicine, Tsinghua University
+      Tsinghua Medicine<br>Tsinghua University
 ---
