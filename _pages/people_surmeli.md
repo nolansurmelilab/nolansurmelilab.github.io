@@ -63,12 +63,15 @@ profiles_phd:
     more_info: >
       EASTBIO Doctoral Program
 
-profiles_student:
+profiles_master_student:
+  - align: left
+    name: Jiale Yin
+    email: j.yin-19@sms.ed.ac.uk
   - align: left
     name: Tajinder Sembhi
     email: t.s.sembhi@sms.ed.ac.uk
 
-profiles_student_alumni:
+profiles_master_student_alumni:
   - align: left
     name: Emily Cooper
   - align: left
@@ -78,7 +81,38 @@ profiles_student_alumni:
   - align: left
     name: Sarah Choi
   - align: left
+    name: Silda Yildiz
+  - align: left
     name: Zuzanna Bogdanowicz
+
+profiles_ug_student:
+  - align: left
+    name: Tommy Tang
+    email: c.y.tang@sms.ed.ac.uk
+
+profiles_ug_student_alumni:
+  - align: left
+    name: Aaron Hay
+  - align: left
+    name: Eleanor Hutchinson
+  - align: left
+    name: Ella Svahn
+  - align: left
+    name: Huiting Li
+  - align: left
+    name: Jess Brown
+  - align: left
+    name: Jiani Mao
+  - align: left
+    name: Maria Del Mar Munoz Burbano
+  - align: left
+    name: Monika Budryte
+  - align: left
+    name: Sarah Choi
+  - align: left
+    name: Zuzanna Bogdanowicz
+  - align: left
+    name: Zuzana Kollarova
 
 collaborators:
   - align: left

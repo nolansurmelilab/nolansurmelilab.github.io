@@ -222,8 +222,8 @@ layout: page
     {% endif %}
     {% endif %}
 
-    {% if page.profiles_student %}
-    <h2 class="category">Students</h2>
+    {% if page.profiles_master_student %}
+    <h2 class="category">Master Students</h2>
     <div style="display: flex; flex-wrap: wrap; justify-content: start;">
       {% for profile in page.profiles_student %}
       <div class="profile" style="flex: 1 0 300px; margin: 10px; max-width: 300px;">
@@ -269,7 +269,72 @@ layout: page
       {% endfor %}
     </div>
 
-    {% if page.profiles_student_alumni %}
+    {% if page.profiles_master_student_alumni %}
+    <h3 style="color: #424246;">Alumni</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: start;">
+      {% for profile in page.profiles_student_alumni %}
+      <div class="profile" style="flex: 1 0 300px; margin: 10px; max-width: 300px;">
+        {% if profile.name %}
+        <div class="more-info">{{ profile.name }}</div>
+        {% endif %}
+        {% if profile.more_info %}
+        <p style="margin-top: 0;">{{ profile.more_info }}</p>
+        {% endif %}
+        <br>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% endif %}
+
+    {% if page.profiles_ug_student %}
+    <h2 class="category">Undergraduate Students</h2>
+    <div style="display: flex; flex-wrap: wrap; justify-content: start;">
+      {% for profile in page.profiles_student %}
+      <div class="profile" style="flex: 1 0 300px; margin: 10px; max-width: 300px;">
+        {% if profile.image %}
+        {% assign profile_image_path = profile.image | prepend: '/assets/img/' %}
+        {% if profile.image_circular %}
+        {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
+        {% else %}
+        {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
+        {% endif %}
+        <div style="position: relative; width: 100%; padding-bottom: 100%; overflow: hidden;">
+          <img src="{{ profile_image_path }}" class="{{ profile_image_class }}" alt="{{ profile.image }}"
+            style="object-fit: cover; object-position: top; position: absolute; height: 100%; width: 100%;" />
+        </div>
+        {% endif %}
+        {% if profile.name %}
+        <div class="more-info">{{ profile.name }}</div>
+        {% if profile.email %}
+        <div class="more-info"><a href="mailto:{{ profile.email }}">{{ profile.email }}</a></div>
+        {% endif %}
+        {% if profile.website or profile.more_info or profile.content %}
+        <div class="links">
+          {% if profile.website %}
+          <a href="https://{{ profile.website }}" class="more-info-btn btn-sm z-depth-0" role="button">WEBSITE</a>
+          {% endif %}
+          {% if profile.more_info or profile.content %}
+          <button class="more-info-btn btn-sm z-depth-0">ABS</button>
+          <div class="more-info-content hidden">
+            {% if profile.more_info %}
+            <div style="padding-left: 10px;">{{ profile.more_info }}</div>
+            {% endif %}
+            {% if profile.content %}
+            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+            {{ profile_content | markdownify }}
+            {% endif %}
+          </div>
+          {% endif %}
+        </div>
+        {% endif %}
+        {% endif %}
+        <br>
+      </div>
+      {% endfor %}
+    </div>
+
+    {% if page.profiles_ug_student_alumni %}
     <h3 style="color: #424246;">Alumni</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: start;">
       {% for profile in page.profiles_student_alumni %}
