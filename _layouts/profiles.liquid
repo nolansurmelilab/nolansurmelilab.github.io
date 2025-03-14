@@ -225,7 +225,7 @@ layout: page
     {% if page.profiles_master_student %}
     <h2 class="category">Master Students</h2>
     <div style="display: flex; flex-wrap: wrap; justify-content: start;">
-      {% for profile in page.profiles_student %}
+      {% for profile in page.profiles_master_student %}
       <div class="profile" style="flex: 1 0 300px; margin: 10px; max-width: 300px;">
         {% if profile.image %}
         {% assign profile_image_path = profile.image | prepend: '/assets/img/' %}
@@ -270,9 +270,9 @@ layout: page
     </div>
 
     {% if page.profiles_master_student_alumni %}
-    <h3 style="color: #424246;">Alumni</h3>
+    <h3 class="category">Alumni</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: start;">
-      {% for profile in page.profiles_student_alumni %}
+      {% for profile in page.profiles_master_student_alumni %}
       <div class="profile" style="flex: 1 0 300px; margin: 10px; max-width: 300px;">
         {% if profile.name %}
         <div class="more-info">{{ profile.name }}</div>
@@ -290,7 +290,7 @@ layout: page
     {% if page.profiles_ug_student %}
     <h2 class="category">Undergraduate Students</h2>
     <div style="display: flex; flex-wrap: wrap; justify-content: start;">
-      {% for profile in page.profiles_student %}
+      {% for profile in page.profiles_ug_student %}
       <div class="profile" style="flex: 1 0 300px; margin: 10px; max-width: 300px;">
         {% if profile.image %}
         {% assign profile_image_path = profile.image | prepend: '/assets/img/' %}
@@ -335,9 +335,9 @@ layout: page
     </div>
 
     {% if page.profiles_ug_student_alumni %}
-    <h3 style="color: #424246;">Alumni</h3>
+    <h3 class="category">Alumni</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: start;">
-      {% for profile in page.profiles_student_alumni %}
+      {% for profile in page.profiles_ug_student_alumni %}
       <div class="profile" style="flex: 1 0 300px; margin: 10px; max-width: 300px;">
         {% if profile.name %}
         <div class="more-info">{{ profile.name }}</div>
