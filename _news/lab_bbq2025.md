@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2024-07-26 22:30:00-0400
+date: 2024-05-20 17:00:00-0000
 inline: true
 related_posts: false
 ---
 
-The lab is at FENS 2024!
-<img src="/assets/img/fens2024.jpg" alt="Lab at FENS 2024" title="The Lab Team at FENS 2024" style="width: 100%; max-width: 600px; height: auto;">
+We had a lab BBQ!
+<img src="/assets/img/lab_bbq.jpeg" alt="Lab BBQ 2025" title="A subset of the lab at lab BBQ 2025." style="width: 100%; max-width: 600px; height: auto;">
