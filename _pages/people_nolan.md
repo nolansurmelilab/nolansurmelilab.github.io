@@ -162,7 +162,7 @@ profiles_phd_alumni:
     name: Cian O’Donnell
     more_info: 2007 - 2011  
 
-profiles_student:
+profiles_master_student:
   - align: left
     name: Likitha Mallela
     email: l.mallela@sms.ed.ac.uk
@@ -170,7 +170,7 @@ profiles_student:
     name: Priya Sarda
     email: p.sarda@sms.ed.ac.uk
 
-profiles_student_alumni:
+profiles_master_student_alumni:
   - align: left
     name: Sandra Constantinou-Juhasz
     more_info: January - August 2024  
@@ -282,6 +282,148 @@ profiles_student_alumni:
   - align: left
     name: Cian O’Donnell
     more_info: May - August 2007<br>(Neuroinformatics)  
+
+profiles_ug_student:
+  - align: left
+    name: Craig Seaton
+    email: c.seaton-1@sms.ed.ac.uk
+  - align: left
+    name: Haseeb Imtiaz
+    email: h.imtiaz-2@sms.ed.ac.uk
+  - align: left
+    name: James Leslie
+    email: j.leslie-11@sms.ed.ac.uk
+  - align: left
+    name: Kaja Kubickova
+    email: k.kubickova@sms.ed.ac.uk
+
+profiles_ug_student_alumni:
+  - align: left
+    name: Maria Del Mar Munoz Burbano
+    more_info: January - April 2024
+  - align: left
+    name: Eleanor Hutchinson
+    more_info: January - April 2024
+  - align: left
+    name: Jiani Mao
+    more_info: January - April 2024
+  - align: left
+    name: Zuzana Kollarova
+    more_info: January - April 2024<br>(Summer Intern)
+  - align: left
+    name: Zuzanna Bogdanowicz
+    more_info: January - April 2024
+  - align: left
+    name: Isabelle Ferenczi
+    more_info: January - April 2023
+  - align: left
+    name: Alex Markov
+    more_info: January - April 2023
+  - align: left
+    name: Brandon MacIntyre
+    more_info: January - April 2023
+  - align: left
+    name: Kayleigh Barnes
+    more_info: January - April 2022
+  - align: left
+    name: Ruairidh Orr Ewing
+    more_info: January - April 2022
+  - align: left
+    name: Francesca Spaeth
+    more_info: January - April 2022
+  - align: left
+    name: Zhari Bhatti
+    more_info: January - April 2021
+  - align: left
+    name: Steven Brown
+    more_info: January - April 2021
+  - align: left
+    name: Callum Taylor
+    more_info: January - April 2021
+  - align: left
+    name: Kristina Wang
+    more_info: January - April 2021
+  - align: left
+    name: Belen Hackel
+    more_info: January - April 2021
+  - align: left
+    name: Maja Dolny
+    more_info: January - April 2020
+  - align: left
+    name: Lauren Simkin
+    more_info: January - April 2020
+  - align: left
+    name: Joyce Lee
+    more_info: January - April 2020
+  - align: left
+    name: Jessica Passlack
+    more_info: January - April 2019
+  - align: left
+    name: Wannan Yang
+    more_info: January - April 2019
+  - align: left
+    name: Pia Segele
+    more_info: January - April 2019<br>(Winner of the British Neuroscience Association undergraduate prize)
+  - align: left
+    name: Jinghua Yang
+    more_info: January - April 2019<br>(Electrical Engineering final project)
+  - align: left
+    name: Thomas Collins
+    more_info: January - April 2018
+  - align: left
+    name: Alexander Munro
+    more_info: January - April 2017
+  - align: left
+    name: Merlin Williams
+    more_info: January - April 2017<br>(Prize for best neuroscience thesis)
+  - align: left
+    name: Kieran Blaikie
+    more_info: January - April 2017
+  - align: left
+    name: Oliver Shipston-Sharma
+    more_info: January - April 2016
+  - align: left
+    name: Mark Robertson
+    more_info: January - April 2015
+  - align: left
+    name: Christopher Meighen
+    more_info: January - April 2014
+  - align: left
+    name: Peng Sim
+    more_info: January - April 2013
+  - align: left
+    name: Azim Daud
+    more_info: January - April 2013
+  - align: left
+    name: Sharouz Sarchamy
+    more_info: January - April 2013
+  - align: left
+    name: Erika Henderson
+    more_info: January - April 2012<br>(Neuroscience)
+  - align: left
+    name: Ben Upton
+    more_info: January - April 2012<br>(Neuroscience)
+  - align: left
+    name: Mateusz Tylicki
+    more_info: January - April 2011<br>(Pharmacology)
+  - align: left
+    name: John Sawers
+    more_info: January - April 2011<br>(Pharmacology)
+  - align: left
+    name: Elizabeth Duggleby
+    more_info: January - April 2010<br>(Pharmacology)
+  - align: left
+    name: Emmeline Brock
+    more_info: January - April 2010<br>(Medical Sciences)
+  - align: left
+    name: Elizabeth Needham
+    more_info: January - April 2008<br>(Pharmacology)
+  - align: left
+    name: Lefteris Triantopoulos
+    more_info: February – March 2008<br>(Neuroscience)
+  - align: left
+    name: Tony Blockeel
+    more_info: January - April 2007<br>(Pharmacology)
 
 collaborators:
   - align: left
