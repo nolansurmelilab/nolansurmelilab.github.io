@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations to Ian for having his abstract selected for a talk at the[UK Computational Neuroscience meeting](https://neuralcomputation.uk/program.html)!
+Congratulations to Ian for having his abstract selected for a talk at the [UK Computational Neuroscience meeting](https://neuralcomputation.uk/program.html)!
