@@ -48,14 +48,12 @@ profiles_phd:
     email: s1582013@sms.ed.ac.uk
 
 profiles_master_student:
-  - align: left
-    name: Jiale Yin
-    email: j.yin-19@sms.ed.ac.uk
-  - align: left
-    name: Tajinder Sembhi
-    email: t.s.sembhi@sms.ed.ac.uk
 
 profiles_master_student_alumni:
+  - align: left
+    name: Jiale Yin
+  - align: left
+    name: Tajinder Sembhi
   - align: left
     name: Emily Cooper
   - align: left

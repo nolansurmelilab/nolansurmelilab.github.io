@@ -87,6 +87,13 @@ profiles_phd:
     email: wolf.de.wulf@ed.ac.uk
     more_info: >
       CDT in Biomedical AI
+  - align: left
+    content: people/nolan/yiming.md
+    image_circular: false
+    name: Yiming Zhao
+    email: y.zhao@ed.ac.uk
+    more_info: >
+      Simons Initiative for the Developing Brain
 
 profiles_phd_alumni:
   - align: left
