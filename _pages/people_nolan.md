@@ -89,6 +89,7 @@ profiles_phd:
       CDT in Biomedical AI
   - align: left
     content: people/nolan/yiming.md
+    image: people/fill.png
     image_circular: false
     name: Yiming Zhao
     email: y.zhao@ed.ac.uk
@@ -313,7 +314,7 @@ profiles_ug_student_alumni:
 collaborators:
   - align: left
     name: Brianna Vandrey
-    more_info: > 
+    more_info: >
       Centre for Cognitive Neuroimaging<br>University of Glasgow
   - align: left
     name: Istvan Gyongy
@@ -350,6 +351,5 @@ collaborators:
   - align: left
     name: Emily Osterweil
     more_info: >
-        Rosamund Stone Zander Translational Neuroscience Center<br>Harvard Medical School
-
+      Rosamund Stone Zander Translational Neuroscience Center<br>Harvard Medical School
 ---
