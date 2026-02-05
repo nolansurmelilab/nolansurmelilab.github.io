@@ -15,10 +15,15 @@ profiles_pi:
 
 profiles_postdoc:
   - align: left
-    image: people/sara.jpeg
+    image: people/daniel.jpeg
     image_circular: false
-    name: Sara Gomez-Arnaiz
-    email: sara.gomez-arnaiz@ed.ac.uk
+    name: Daniel Lewis-Fallows
+    email: D.Lewis-Fallows@sms.ed.ac.uk
+  - align: left
+    image: people/sau.jpeg
+    image_circular: false
+    name: Sau Yee Tsoi
+    email: sauyee.tsoi@ed.ac.uk
 
 profiles_postdoc_alumni:
   - align: left
@@ -27,15 +32,11 @@ profiles_postdoc_alumni:
   - align: left
     name: Merve Oncul
     more_info: 2019 - 2021
+  - align: left
+    name: Sara Gomez-Arnaiz
+    more_info: 2019 - 2026
 
 profiles_phd:
-  - align: left
-    image: people/daniel.jpeg
-    image_circular: false
-    name: Daniel Lewis-Fallows
-    email: D.Lewis-Fallows@sms.ed.ac.uk
-    more_info: >
-      Simons Initiative for the Developing Brain
   - align: left
     image: people/eddie.jpeg
     image_circular: false
@@ -48,20 +49,6 @@ profiles_phd:
     image_circular: false
     name: Jinghua Yang
     email: s1582013@sms.ed.ac.uk
-  - align: left
-    image: people/raf.jpeg
-    image_circular: false
-    name: Rafael Lemarchand
-    email: r.b.lemarchand@sms.ed.ac.uk
-    more_info: >
-      Wellcome Trust Translational Neuroscience Program
-  - align: left
-    image: people/sau.jpeg
-    image_circular: false
-    name: Sau Yee Tsoi
-    email: sauyee.tsoi@ed.ac.uk
-    more_info: >
-      EASTBIO Doctoral Program
 
 profiles_master_student:
   - align: left
@@ -87,10 +74,13 @@ profiles_master_student_alumni:
 
 profiles_ug_student:
   - align: left
-    name: Tommy Tang
-    email: c.y.tang@sms.ed.ac.uk
+    name:  Aybuke Bahar
+  - align: left
+    name: Jared Ostle
 
 profiles_ug_student_alumni:
+  - align: left
+    name: Tommy Tang
   - align: left
     name: Aaron Hay
   - align: left

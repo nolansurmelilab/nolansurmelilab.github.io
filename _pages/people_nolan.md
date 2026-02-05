@@ -20,21 +20,15 @@ profiles_postdoc:
     name: Alessandro di Filippo
     email: alessandro.difilippo@ed.ac.uk
   - align: left
-    image: people/bri.jpg
-    image_circular: false
-    name: Brianna Vandrey
-    email: brianna.vandrey@ed.ac.uk
-  - align: left
-    image: people/harry.jpg
-    content: people/nolan/harry.md
-    image_circular: false
-    name: Harry Clark
-    email: hclark3@ed.ac.uk
-  - align: left
     image: people/fill.png
     image_circular: false
     name: Ian Hawes
     email: ian.hawes@ed.ac.uk
+  - align: left
+    image: people/yifang.jpg
+    image_circular: false
+    name: Yifang Yuan
+    email: s2073467@ed.ac.uk
 
 profiles_postdoc_alumni:
   - align: left
@@ -94,11 +88,6 @@ profiles_soft:
 
 profiles_phd:
   - align: left
-    image: people/junji.jpg
-    image_circular: false
-    name: Junji Hua
-    email: jhua2@ed.ac.uk
-  - align: left
     image: people/kurtulus.jpg
     image_circular: false
     name: Kurtuluş Buluş
@@ -113,13 +102,6 @@ profiles_phd:
     email: wolf.de.wulf@ed.ac.uk
     more_info: >
       CDT in Biomedical AI
-  - align: left
-    image: people/yifang.jpg
-    image_circular: false
-    name: Yifang Yuan
-    email: s2073467@ed.ac.uk
-    more_info: >
-      EASTBIO Doctoral Program
 
 profiles_phd_alumni:
   - align: left
@@ -161,16 +143,21 @@ profiles_phd_alumni:
   - align: left
     name: Cian O’Donnell
     more_info: 2007 - 2011  
+  - align: left
+    name: Harry Clark
+    more_info: 2018 - 2026
 
 profiles_master_student:
   - align: left
-    name: Likitha Mallela
-    email: l.mallela@sms.ed.ac.uk
-  - align: left
-    name: Priya Sarda
-    email: p.sarda@sms.ed.ac.uk
+    name: Amir Dori
 
 profiles_master_student_alumni:
+  - align: left
+    name: Likitha Mallela
+    more_info: January - August 2025  
+  - align: left
+    name: Priya Sarda
+    more_info: January - August 2025  
   - align: left
     name: Sandra Constantinou-Juhasz
     more_info: January - August 2024  
@@ -285,19 +272,21 @@ profiles_master_student_alumni:
 
 profiles_ug_student:
   - align: left
-    name: Craig Seaton
-    email: c.seaton-1@sms.ed.ac.uk
+    name: Sean Reybet-Degat
   - align: left
-    name: Haseeb Imtiaz
-    email: h.imtiaz-2@sms.ed.ac.uk
+    name: Ziyue Tang
   - align: left
-    name: James Leslie
-    email: j.leslie-11@sms.ed.ac.uk
-  - align: left
-    name: Kaja Kubickova
-    email: k.kubickova@sms.ed.ac.uk
+    name: Sia Ravat
 
 profiles_ug_student_alumni:
+  - align: left
+    name: Craig Seaton
+  - align: left
+    name: Haseeb Imtiaz
+  - align: left
+    name: James Leslie
+  - align: left
+    name: Kaja Kubickova
   - align: left
     name: Maria Del Mar Munoz Burbano
     more_info: January - April 2024
@@ -427,6 +416,9 @@ profiles_ug_student_alumni:
 
 collaborators:
   - align: left
+    name: Brianna Vandrey
+    more_info: > Centre for Cognitive Neuroimaging<br>University of Glasgow
+  - align: left
     name: Istvan Gyongy
     more_info: >
       School of Engineering<br>University of Edinburgh
@@ -462,4 +454,5 @@ collaborators:
     name: Emily Osterweil
     more_info: >
         Rosamund Stone Zander Translational Neuroscience Center<br>Harvard Medical School
+
 ---
