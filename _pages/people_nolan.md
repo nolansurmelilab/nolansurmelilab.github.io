@@ -88,7 +88,6 @@ profiles_phd:
     more_info: >
       CDT in Biomedical AI
   - align: left
-    content: people/nolan/yiming.md
     image: people/fill.png
     image_circular: false
     name: Yiming Zhao
