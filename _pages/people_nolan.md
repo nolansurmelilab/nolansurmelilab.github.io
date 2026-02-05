@@ -313,7 +313,8 @@ profiles_ug_student_alumni:
 collaborators:
   - align: left
     name: Brianna Vandrey
-    more_info: > Centre for Cognitive Neuroimaging<br>University of Glasgow
+    more_info: > 
+      Centre for Cognitive Neuroimaging<br>University of Glasgow
   - align: left
     name: Istvan Gyongy
     more_info: >
