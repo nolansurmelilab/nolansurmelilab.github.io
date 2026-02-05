@@ -88,7 +88,7 @@ profiles_phd:
     more_info: >
       CDT in Biomedical AI
   - align: left
-    image: people/yiming.jpg
+    image: people/yiming.jpeg
     image_circular: false
     name: Yiming Zhao
     email: y.zhao@ed.ac.uk
