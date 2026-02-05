@@ -28,13 +28,10 @@ profiles_postdoc:
 profiles_postdoc_alumni:
   - align: left
     name: Alessandro Di Filippo
-    more_info: 2018 - 2022
   - align: left
     name: Merve Oncul
-    more_info: 2019 - 2021
   - align: left
     name: Sara Gomez-Arnaiz
-    more_info: 2019 - 2026
 
 profiles_phd:
   - align: left
